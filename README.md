@@ -2,6 +2,8 @@
 
 Bu repo, deprem öncesinde ve sonrasında kullanılabilecek güncel ve güvenilir bilgileri sunan çeşitli web sitelerinin ve uygulamaların listesini içerir.
 
+Katkı yapmadan önce lütfen [CONTRIBUTING.md](https://github.com/devisasari/deprem/blob/main/CONTRIBUTING.md) bakınız.
+
 ## Deprem Sonrası
 
 - [depremyardim.com](http://depremyardim.com) : Bu sitede, yardıma ihtiyacı olduğunu düşündüğünüz veya ulaşamadığınız kişilerin bilgilerini kaydedebilir ve yardıma ihtiyaç duyan kişileri görebilirsiniz. Gönüllü yazılımcılar tarafından [geliştirilmiştir.](https://github.com/acikkaynak)
