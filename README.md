@@ -14,6 +14,8 @@ Katkı yapmadan önce lütfen [CONTRIBUTING.md](https://github.com/devisasari/de
 
 - [afetbilgi.com](https://www.afetbilgi.com/) : Geçiçi barınma alanlarının ve güvenli toplanma alanlarının listesini bulabilirsiniz. Ayrıca eşya bağışı yapmak isteyenler adres ve iletişim bilgilerini görebilir. Gönüllü yazılımcılar tarafından [geliştirilmiştir.](https://twitter.com/Keleesssss/status/1622855716410204160)
 
+- [deprem.io](https://www.deprem.io/) : Enkaz altında yardım bekleyen, gıdaya, ısınmaya veya konaklamaya ihtiyacı olan kişiler için talep oluşturabileceğiniz ve talepleri harita üzerinden görüntüleyebileceğiniz websitesidir. Gönüllü yazılımcılar tarafından [geliştirilmiştir.](https://github.com/acikkaynak)
+
 ## Deprem Öncesi
 
 - [güvendeyim uygulaması](https://www.akut.org.tr/guvendeyim) : Güvendeyim uygulaması ile güvende olduğunuzu konum bilgisi ile SMS olarak bildirin. Güvendeyim uygulaması ayarlar bölümünden belirlediğiniz en fazla 10 telefon numarasına uygulamanın ana ekranındaki Güvendeyim butonuna bastığınızda telefonunuzun GPS servisi üzerinden aldığı konumunuzu telefonunuz SMS sistemi üzerinden belirttiğiniz kişilere gönderir. Aynı şehirde yaşamayan en az bir yakınınızın numarasını da uygulamaya eklemenizi öneririz. Güvendeyim uygulaması, uygulamayı yükledikten sonra internete ihtiyaç duymaz. SMS gönderim hakkınız olması yeterlidir. AKUT tarafından geliştirilmiştir.
