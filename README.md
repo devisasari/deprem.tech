@@ -1,10 +1,4 @@
-# Deprem 
-
-Bu repo, deprem öncesinde ve sonrasında kullanılabilecek güncel ve güvenilir bilgileri sunan çeşitli web sitelerinin ve uygulamaların listesini içerir.
-
-Katkı yapmadan önce lütfen [CONTRIBUTING.md](https://github.com/devisasari/deprem/blob/main/CONTRIBUTING.md) bakınız.
-
-## Deprem Sonrası
+### Depremden etkilenenlere yardım için oluşturulmuş güncel ve güvenilir bilgiler sunan sitelerin ve uygulamaların listesi 
 
 - [depremyardim.com](http://depremyardim.com) : Bu sitede, yardıma ihtiyacı olduğunu düşündüğünüz veya ulaşamadığınız kişilerin bilgilerini kaydedebilir ve yardıma ihtiyaç duyan kişileri görebilirsiniz. Gönüllü yazılımcılar tarafından [geliştirilmiştir.](https://github.com/acikkaynak)
 
@@ -16,9 +10,8 @@ Katkı yapmadan önce lütfen [CONTRIBUTING.md](https://github.com/devisasari/de
 
 - [deprem.io](https://www.deprem.io/) : Enkaz altında yardım bekleyen, gıdaya, ısınmaya veya konaklamaya ihtiyacı olan kişiler için talep oluşturabileceğiniz ve talepleri harita üzerinden görüntüleyebileceğiniz websitesidir. Gönüllü yazılımcılar tarafından [geliştirilmiştir.](https://github.com/acikkaynak)
 
-## Deprem Öncesi
+### Deprem Öncesi
 
 - [güvendeyim uygulaması](https://www.akut.org.tr/guvendeyim) : Güvendeyim uygulaması ile güvende olduğunuzu konum bilgisi ile SMS olarak bildirin. Güvendeyim uygulaması ayarlar bölümünden belirlediğiniz en fazla 10 telefon numarasına uygulamanın ana ekranındaki Güvendeyim butonuna bastığınızda telefonunuzun GPS servisi üzerinden aldığı konumunuzu telefonunuz SMS sistemi üzerinden belirttiğiniz kişilere gönderir. Aynı şehirde yaşamayan en az bir yakınınızın numarasını da uygulamaya eklemenizi öneririz. Güvendeyim uygulaması, uygulamayı yükledikten sonra internete ihtiyaç duymaz. SMS gönderim hakkınız olması yeterlidir. AKUT tarafından geliştirilmiştir.
 
 - [afad.gov.tr](https://www.afad.gov.tr/) : Afet yönetimi faaliyetlerini planlar, gerçekleştirir, yönlendirir ve koordine eder. İçişleri bakanlığına bağlı bir kuruluştur. Deprem çantasının nasıl hazırlanmasıyla ilgili bilgiye [şuradan ulaşılabilir.](https://www.afad.gov.tr/afet-ve-acil-durum-cantasi-nasil-hazirlanmali) 
-
