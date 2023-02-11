@@ -1,4 +1,4 @@
-### Depremden etkilenenlere yardım için oluşturulmuş güncel ve güvenilir bilgiler sunan sitelerin ve uygulamaların listesi 
+### Depremden etkilenenlere yardım etmek için oluşturulmuş güncel ve güvenilir bilgiler sunan sitelerin ve uygulamaların listesi 
 
 - [depremyardim.com](http://depremyardim.com) : Bu sitede, yardıma ihtiyacı olduğunu düşündüğünüz veya ulaşamadığınız kişilerin bilgilerini kaydedebilir ve yardıma ihtiyaç duyan kişileri görebilirsiniz. Gönüllü yazılımcılar tarafından [geliştirilmiştir.](https://github.com/acikkaynak)
 
