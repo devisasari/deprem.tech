@@ -1,6 +1,6 @@
 # deprem.tech
 
-- ### [Live Demo](https://deprem.tech)
+- ### [https://deprem.tech](https://deprem.tech)
 
 Bu repo/site, deprem sonrasında ve öncesinde kullanılabilecek güncel ve güvenilir bilgileri sunan çeşitli web sitelerinin ve uygulamaların listesini içerir.
 
