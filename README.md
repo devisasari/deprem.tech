@@ -1,4 +1,8 @@
-### Depremden etkilenenlere yardım etmek için oluşturulmuş güncel ve güvenilir bilgiler sunan sitelerin ve uygulamaların listesi 
+# deprem.tech
+
+Bu repo, deprem sonrasında ve öncesinde kullanılabilecek güncel ve güvenilir bilgileri sunan çeşitli web sitelerinin ve uygulamaların listesini içerir.
+
+## Deprem Sonrası
 
 - [depremyardim.com](http://depremyardim.com) : Bu sitede, yardıma ihtiyacı olduğunu düşündüğünüz veya ulaşamadığınız kişilerin bilgilerini kaydedebilir ve yardıma ihtiyaç duyan kişileri görebilirsiniz. Gönüllü yazılımcılar tarafından [geliştirilmiştir.](https://github.com/acikkaynak)
 
@@ -10,7 +14,7 @@
 
 - [deprem.io](https://www.deprem.io/) : Enkaz altında yardım bekleyen, gıdaya, ısınmaya veya konaklamaya ihtiyacı olan kişiler için talep oluşturabileceğiniz ve talepleri harita üzerinden görüntüleyebileceğiniz websitesidir. Gönüllü yazılımcılar tarafından [geliştirilmiştir.](https://github.com/acikkaynak)
 
-### Deprem Öncesi
+## Deprem Öncesi
 
 - [güvendeyim uygulaması](https://www.akut.org.tr/guvendeyim) : Güvendeyim uygulaması ile güvende olduğunuzu konum bilgisi ile SMS olarak bildirin. Güvendeyim uygulaması ayarlar bölümünden belirlediğiniz en fazla 10 telefon numarasına uygulamanın ana ekranındaki Güvendeyim butonuna bastığınızda telefonunuzun GPS servisi üzerinden aldığı konumunuzu telefonunuz SMS sistemi üzerinden belirttiğiniz kişilere gönderir. Aynı şehirde yaşamayan en az bir yakınınızın numarasını da uygulamaya eklemenizi öneririz. Güvendeyim uygulaması, uygulamayı yükledikten sonra internete ihtiyaç duymaz. SMS gönderim hakkınız olması yeterlidir. AKUT tarafından geliştirilmiştir.
 
