@@ -98,6 +98,10 @@ Bu repo/site, deprem sonrasında ve öncesinde kullanılabilecek güncel ve güv
 
 - [Deprem Kedileri İnstagram Sayfası](https://www.instagram.com/depremkedileribilgi/): Bu sayfa, depremde kaybolan can dostlarımız için kurulmuş. Sayfa amacını şöyle özetliyor: Kaybolan kedi ve köpekleri tek bir çatı altında toplamaya çalışıyoruz.
 
+- [depremplatformlari.com](https://depremplatformlari.com/) : Depremden etkilenenlere yardım etmek için oluşturulmuş platformları listeleyen bir websitesidir.
+
+- [tumyardimlar.com](https://tumyardimlar.com) : Depremden etkilenenlere yardım etmek için oluşturulmuş platformları listeleyen bir websitesidir.
+
 ## Deprem Öncesi
 
 - [güvendeyim uygulaması](https://www.akut.org.tr/guvendeyim) : Güvendeyim uygulaması ile güvende olduğunuzu konum bilgisi ile SMS olarak bildirin. Güvendeyim uygulaması ayarlar bölümünden belirlediğiniz en fazla 10 telefon numarasına uygulamanın ana ekranındaki Güvendeyim butonuna bastığınızda telefonunuzun GPS servisi üzerinden aldığı konumunuzu telefonunuz SMS sistemi üzerinden belirttiğiniz kişilere gönderir. Aynı şehirde yaşamayan en az bir yakınınızın numarasını da uygulamaya eklemenizi öneririz. Güvendeyim uygulaması, uygulamayı yükledikten sonra internete ihtiyaç duymaz. SMS gönderim hakkınız olması yeterlidir. AKUT tarafından geliştirilmiştir.
