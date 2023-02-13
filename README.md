@@ -104,6 +104,8 @@ Bu repo/site, deprem sonrasında ve öncesinde kullanılabilecek güncel ve güv
 
 ## Deprem Öncesi
 
+- [Bina Tespiti - İBB](https://binatespiti.ibb.istanbul/) : İstanbul Büyükşehir Belediyesi tarafından hazırlanan oturduğunuz binanın risk durumunu öğrenebileceğiniz bir websitesi. Sitede belirtilene göre 2000 yılı öncesi yapımlı binalarda "hızlı bina tarama yöntemi" ile gerçekleştirilen bina inceleme bilgileri yer almaktadır. Kiracı veya ev sahibi farketmez, eğer binanız için rapor oluşturulmadıysa da başvurup kontrole gelmelerini sağlayabiliyorsunuz.
+
 - [güvendeyim uygulaması](https://www.akut.org.tr/guvendeyim) : Güvendeyim uygulaması ile güvende olduğunuzu konum bilgisi ile SMS olarak bildirin. Güvendeyim uygulaması ayarlar bölümünden belirlediğiniz en fazla 10 telefon numarasına uygulamanın ana ekranındaki Güvendeyim butonuna bastığınızda telefonunuzun GPS servisi üzerinden aldığı konumunuzu telefonunuz SMS sistemi üzerinden belirttiğiniz kişilere gönderir. Aynı şehirde yaşamayan en az bir yakınınızın numarasını da uygulamaya eklemenizi öneririz. Güvendeyim uygulaması, uygulamayı yükledikten sonra internete ihtiyaç duymaz. SMS gönderim hakkınız olması yeterlidir. AKUT tarafından geliştirilmiştir.
 
 - [afad.gov.tr](https://www.afad.gov.tr/) : Afet yönetimi faaliyetlerini planlar, gerçekleştirir, yönlendirir ve koordine eder. İçişleri bakanlığına bağlı bir kuruluştur. Deprem çantasının nasıl hazırlanmasıyla ilgili bilgiye [şuradan ulaşılabilir.](https://www.afad.gov.tr/afet-ve-acil-durum-cantasi-nasil-hazirlanmali) 
